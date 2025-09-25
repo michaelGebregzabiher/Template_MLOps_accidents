@@ -1,0 +1,7 @@
+[core]
+    remote = remote_gdrive
+['remote "remote_gdrive"']
+    url = gdrive://1sufX_i0yw4X2i5h0F7b6UaugieTPQaCp
+    gdrive_use_service_account = true
+['remote "remote_storage"']
+    url = ../../dvc_remote
